@@ -2,7 +2,7 @@
 	defaultBranch = main
 [user]
 	name = Brian Kim
-	email = bk@mailingaddress
+	email = bk@mailingaddress.org
 [push]
 		default = current
 [color]
